@@ -1,0 +1,35 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "epub.js": "^0.2.15",
+    "epubjs": "^0.3.71",
+    "localforage": "^1.7.3",
+    "vue": "^2.5.22",
+    "vue-create-api": "^0.2.0",
+    "vue-i18n": "^8.8.2",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1",
+    "web-storage-cache": "^1.0.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.7.0",
+    "@vue/cli-plugin-eslint": "^3.7.0",
+    "@vue/cli-service": "^3.7.0",
+    "@vue/eslint-config-standard": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "node-sass": "^4.12.0",
+    "axios": "^0.18.0",
+    "mockjs": "^1.0.1-beta3",
+    "sass-loader": "^7.1.0",
+    "vue-template-compiler": "^2.5.21"
+  }
+}
